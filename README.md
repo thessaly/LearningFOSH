@@ -17,7 +17,7 @@ I'm thinking of Master's and PhD students, as the request came from someone in t
 ## Contributing
 - Discuss the goal and the who
 - Start proposing lessons in the [List of lessons](/lessons.md)
-- Start drafting the [Lesson template](/template.md): What should a lesson have, look like?
+- Start drafting the [Lesson template](/leson_template.md): What should a lesson have, look like?
 - Suggest resources
 
 ### Useful resources
