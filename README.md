@@ -12,7 +12,7 @@ I really like [The Carpentries](https://github.com/carpentries/) approach, but I
 To introduce people to fundamentals of open science hardware, opportunities, challenges, resources and practical knowledge on how to go from an idea to a prototype (and maybe more).
 
 ## Who?
-I'm thinking of Master's and PhD students, as the request came from someone in the Bioinformatics / Biotech Masters degree.
+I'm thinking of Master's and PhD students, as the request came from someone in a Bioinformatics / Biotech Masters degree.
 
 ## Contributing
 - Discuss the goal and the who
