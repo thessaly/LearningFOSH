@@ -1,3 +1,5 @@
+# Learning FOSH lessons
+
 1. What is open science hardware: fundamentals, motivations, communities.
 
 - Definitions and communities
