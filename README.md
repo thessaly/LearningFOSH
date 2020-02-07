@@ -1,5 +1,7 @@
 # Learning FOSH
 
+**SEE [OPEN HARDWARE LEADERS PROGRAM](openhardware4.me)**
+
 **:wrench: A repo containing collaborative lessons on open science hardware**
 
 I start this repo because I was asked to teach a course on open science hardware at University, and I guess this is a situation that will be more and more frequent in the future for people in the open science hardware community.
